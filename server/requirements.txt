@@ -1,0 +1,12 @@
+fastapi
+numpy
+python-multipart
+uvicorn
+noisereduce
+soundfile
+openai-whisper
+python-dotenv
+boto3
+whisperx
+speechlib
+googletrans
